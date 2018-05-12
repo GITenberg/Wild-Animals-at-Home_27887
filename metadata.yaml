@@ -17,6 +17,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/535
     wikipedia: http://en.wikipedia.org/wiki/Ernest_Thompson_Seton
 description: Observations of wild animals and stories about their behavior.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/27887#Wild-Animals-at-Home
 gutenberg_bookshelf:
 - Animal
 - Animals-Wild
