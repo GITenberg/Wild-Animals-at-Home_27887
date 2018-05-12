@@ -1,0 +1,38 @@
+_repo: Wild-Animals-at-Home_27887
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Seton, Ernest Thompson
+    aliases:
+    - Thompson-Seton, Ernest
+    - Seton-Thomson, Ernest
+    - Seton-Thompson, Ernest
+    - Seton, Wolf
+    birthdate: 1860
+    deathdate: 1946
+    gutenberg_agent_id: '535'
+    url: http://www.gutenberg.org/2009/agents/535
+    wikipedia: http://en.wikipedia.org/wiki/Ernest_Thompson_Seton
+description: Observations of wild animals and stories about their behavior.
+gutenberg_bookshelf:
+- Animal
+- Animals-Wild
+gutenberg_issued: '2009-01-25'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '27887'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Animals -- Fiction'
+- !lcsh 'Animal behavior'
+- !lcc 'QL'
+- !lcc 'PS'
+- !lcsh 'Animals -- Anecdotes'
+title: Wild Animals at Home
+url: http://www.gutenberg.org/ebooks/27887
